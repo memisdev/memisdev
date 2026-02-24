@@ -6,13 +6,9 @@
   <img src="assets/header.svg" width="900" alt="MEMISDEV — Product Engineer" />
 </div>
 
-<br/>
-
 <div align="center">
-  <img src="assets/hero.gif" width="320" alt="" />
+  <img src="assets/hero.gif" width="300" alt="" />
 </div>
-
-<br/>
 
 <div align="center">
   <a href="https://github.com/memisdev">
@@ -20,13 +16,9 @@
   </a>
 </div>
 
-<br/>
-
 <div align="center">
-  <img src="assets/divider.svg" width="900" />
+  <img src="assets/divider.svg" width="700" />
 </div>
-
-<br/>
 
 <div align="center">
   <samp>
@@ -36,17 +28,11 @@
   </samp>
 </div>
 
-<br/>
-
 <div align="center">
-  <img src="assets/divider.svg" width="900" />
+  <img src="assets/divider.svg" width="700" />
 </div>
 
-<br/>
-
 <h3 align="center">⚔️ Arsenal</h3>
-
-<br/>
 
 <div align="center">
 
@@ -86,70 +72,47 @@
 
 </div>
 
-<br/>
-
 <div align="center">
-  <img src="assets/divider.svg" width="900" />
+  <img src="assets/divider.svg" width="700" />
 </div>
 
-<br/>
-
 <h3 align="center">🔥 Currently Building</h3>
-
-<br/>
 
 <div align="center">
   <table>
     <tr>
-      <td width="600" align="center">
+      <td width="520" align="center">
         <h3>VISIOCY</h3>
         <p><strong>AI Product Photography for E-Commerce</strong></p>
         <p>
-          <samp>15 AI modes · Multi-tenant SaaS · Credit-based billing</samp><br/>
-          <samp>Next.js 16 · React 19 · Supabase · Vercel Pro</samp>
+          15 AI modes · Multi-tenant SaaS · Credit-based billing<br/>
+          Next.js 16 · React 19 · Supabase · Vercel Pro
         </p>
         <p>
           <img src="https://img.shields.io/badge/Status-In_Development-FF2D2D?style=flat-square&labelColor=0D1117" />
           <img src="https://img.shields.io/badge/Phase-L2_Shared_Services-FF6B6B?style=flat-square&labelColor=0D1117" />
         </p>
         <p>
-          <samp>35 epics · 85 sprints · 1364 tests passing</samp>
+          <samp>35 epics · 85 sprints · Blueprint-driven development</samp>
         </p>
       </td>
     </tr>
   </table>
 </div>
 
-<br/>
-
 <div align="center">
-  <img src="assets/divider.svg" width="900" />
+  <img src="assets/divider.svg" width="700" />
 </div>
 
-<br/>
-
-<h3 align="center">📊 Metrics</h3>
-
-<br/>
+<h3 align="center">📊 Activity</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=memisdev&show_icons=true&bg_color=0D1117&hide_border=true&icon_color=FF2D2D&title_color=FF2D2D&text_color=8B949E&ring_color=FF2D2D" width="420" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=memisdev&background=0D1117&ring=FF2D2D&fire=FF2D2D&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=FF2D2D&sideLabels=8B949E&dates=484F58&hide_border=true" width="420" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=memisdev&background=0D1117&ring=FF2D2D&fire=FF2D2D&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=FF2D2D&sideLabels=8B949E&dates=484F58&hide_border=true" width="480" alt="GitHub Streak" />
 </div>
-
-<br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=memisdev&layout=compact&bg_color=0D1117&hide_border=true&title_color=FF2D2D&text_color=8B949E&langs_count=8" width="320" alt="Top Languages" />
+  <img src="assets/divider.svg" width="700" />
 </div>
-
-<br/>
-
-<div align="center">
-  <img src="assets/divider.svg" width="900" />
-</div>
-
-<br/>
 
 <h3 align="center">📡 Connect</h3>
 
@@ -157,16 +120,16 @@
 
 <div align="center">
   <a href="mailto:memisdev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-memisdev@gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" />
-  </a>
+    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" />
+  </a>&nbsp;
   <a href="https://linkedin.com/in/memisdev" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-memisdev-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
-  </a>
+    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
+  </a>&nbsp;
   <a href="https://x.com/memisdev" target="_blank">
-    <img src="https://img.shields.io/badge/X-@memisdev-0D1117?style=for-the-badge&logo=x&logoColor=FFFFFF" alt="X" />
-  </a>
+    <img src="https://img.shields.io/badge/X-0D1117?style=for-the-badge&logo=x&logoColor=FFFFFF" alt="X" />
+  </a>&nbsp;
   <a href="https://instagram.com/memisdev" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-@memisdev-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram" />
   </a>
 </div>
 
