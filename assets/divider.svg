@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="12" viewBox="0 0 900 12">
+  <defs>
+    <style>
+      @keyframes sweep {
+        0% { transform: translateX(-200px); }
+        100% { transform: translateX(900px); }
+      }
+      .sweeper { animation: sweep 3s ease-in-out infinite; }
+    </style>
+    <linearGradient id="lineGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#FF2D2D" stop-opacity="0"/>
+      <stop offset="0.3" stop-color="#FF2D2D" stop-opacity="0.6"/>
+      <stop offset="0.5" stop-color="#FF2D2D" stop-opacity="1"/>
+      <stop offset="0.7" stop-color="#FF2D2D" stop-opacity="0.6"/>
+      <stop offset="1" stop-color="#FF2D2D" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="sweepGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#FFFFFF" stop-opacity="0.8"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feFlood flood-color="#FF2D2D" flood-opacity="0.5"/>
+      <feComposite in2="blur" operator="in" result="glow"/>
+      <feMerge>
+        <feMergeNode in="glow"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <rect width="900" height="12" fill="transparent"/>
+  <line x1="100" y1="6" x2="800" y2="6" stroke="url(#lineGrad)" stroke-width="1" filter="url(#glow)"/>
+  <circle cx="450" cy="6" r="2" fill="#FF2D2D" opacity="0.9"/>
+  <circle cx="100" cy="6" r="1.5" fill="#FF2D2D" opacity="0.5"/>
+  <circle cx="800" cy="6" r="1.5" fill="#FF2D2D" opacity="0.5"/>
+  <rect class="sweeper" x="0" y="5" width="80" height="2" fill="url(#sweepGrad)" opacity="0.4"/>
+</svg>
