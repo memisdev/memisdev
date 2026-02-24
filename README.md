@@ -12,7 +12,7 @@
 
 <div align="center">
   <a href="https://github.com/memisdev">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=FF2D2D&center=true&vCenter=true&repeat=true&width=500&lines=Product+Engineer;AI+%E2%80%A2+Design+%E2%80%A2+Code;Ship+it.+Scale+it.+Don't+break+it." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=FF2D2D&center=true&vCenter=true&repeat=true&width=500&lines=Full+Stack+Developer;Frontend+%E2%80%A2+Backend+%E2%80%A2+Infrastructure;Ship+it.+Scale+it.+Don't+break+it." alt="Typing SVG" />
   </a>
 </div>
 
@@ -23,7 +23,7 @@
 <div align="center">
   <samp>
     I build products — not prototypes, not demos.<br/>
-    Full-stack engineer specializing in AI-powered SaaS.<br/>
+    Full-stack engineer specializing in scalable SaaS products.<br/>
     TypeScript that compiles. Tests that catch. Systems that don't page me at 3 AM.
   </samp>
 </div>
@@ -92,9 +92,6 @@
           <img src="https://img.shields.io/badge/Status-In_Development-FF2D2D?style=flat-square&labelColor=0D1117" />
           <img src="https://img.shields.io/badge/Phase-L2_Shared_Services-FF6B6B?style=flat-square&labelColor=0D1117" />
         </p>
-        <p>
-          <samp>35 epics · 85 sprints · Blueprint-driven development</samp>
-        </p>
       </td>
     </tr>
   </table>
@@ -145,7 +142,7 @@
 <summary><samp>Accessible text version</samp></summary>
 
 ### About
-Product Engineer building AI-powered SaaS products. Specializing in Next.js, TypeScript, and full-stack development with a focus on reliability and premium UX.
+Full Stack Developer building scalable SaaS products. Specializing in Next.js, TypeScript, and full-stack development with a focus on reliability and premium UX.
 
 ### Current Project
 **VISIOCY** — AI Product Photography for E-Commerce. 15 AI modes, multi-tenant architecture, credit-based billing. Built with Next.js 16, React 19, Supabase, and Vercel Pro.
