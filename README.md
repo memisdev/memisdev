@@ -119,11 +119,14 @@ ACTIVITY
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=memisdev&background=111111&ring=8CFF2E&fire=8CFF2E&currStreakNum=F8F8F8&sideNums=F8F8F8&currStreakLabel=8CFF2E&sideLabels=666666&dates=444444&hide_border=true&stroke=1F1F1F" width="460" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=memisdev&theme=github_dark" width="700" alt="Activity" />
 </div>
 
+<br/>
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=memisdev&show_icons=true&hide_border=true&bg_color=111111&title_color=8CFF2E&icon_color=8CFF2E&text_color=F8F8F8&rank_icon=github" width="440" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=memisdev&theme=github_dark" width="330" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=memisdev&theme=github_dark&utcOffset=3" width="330" alt="Productive Time" />
 </div>
 
 <br/>
