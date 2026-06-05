@@ -119,14 +119,13 @@ ACTIVITY
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=memisdev&theme=github_dark" width="700" alt="Activity" />
+  <img src="assets/streak.png" width="460" alt="GitHub Streak" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=memisdev&theme=github_dark" width="330" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=memisdev&theme=github_dark&utcOffset=3" width="330" alt="Productive Time" />
+  <img src="assets/activity.png" width="700" alt="Activity Graph" />
 </div>
 
 <br/>
