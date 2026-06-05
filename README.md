@@ -1,7 +1,7 @@
 <!-- memisdev — README -->
 
 <div align="center">
-  <img src="assets/header.svg" width="900" alt="MEMISDEV — Product Engineer" />
+  <img src="assets/header.png" width="900" alt="MEMISDEV — Product Engineer" />
 </div>
 
 <br/>
@@ -15,7 +15,7 @@
 <br/>
 
 <div align="center">
-  <img src="assets/divider.svg" width="700" />
+  <img src="assets/divider.png" width="700" />
 </div>
 
 <br/>
@@ -32,7 +32,7 @@ Full-stack engineer specializing in scalable SaaS products.
 <br/>
 
 <div align="center">
-  <img src="assets/divider.svg" width="700" />
+  <img src="assets/divider.png" width="700" />
 </div>
 
 <br/>
@@ -78,7 +78,7 @@ STACK
 <br/>
 
 <div align="center">
-  <img src="assets/divider.svg" width="700" />
+  <img src="assets/divider.png" width="700" />
 </div>
 
 <br/>
@@ -98,14 +98,14 @@ CURRENTLY BUILDING
 | **VISIOCY** | AI Product Photography for E-Commerce |
 | Stack | Next.js 16 · React 19 · Supabase · Vercel Pro |
 | Scope | 15 AI modes · Multi-tenant · Credit-based billing |
-| Status | ![](https://img.shields.io/badge/In_Development-8CFF2E?style=flat-square&labelColor=111111&color=111111&logoColor=8CFF2E) `active` |
+| Status | `active` |
 
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="assets/divider.svg" width="700" />
+  <img src="assets/divider.png" width="700" />
 </div>
 
 <br/>
@@ -129,7 +129,7 @@ ACTIVITY
 <br/>
 
 <div align="center">
-  <img src="assets/divider.svg" width="700" />
+  <img src="assets/divider.png" width="700" />
 </div>
 
 <br/>
@@ -154,7 +154,7 @@ CONNECT
 <br/>
 
 <div align="center">
-  <img src="assets/footer.svg" width="900" />
+  <img src="assets/footer.png" width="900" />
 </div>
 
 <!--  -->
