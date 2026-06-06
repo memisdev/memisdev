@@ -47,22 +47,34 @@ STACK
 
 <div align="center">
 
-![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=flat-square&logo=typescript&logoColor=8CFF2E)
+![TypeScript](https://img.shields.io/badge/TypeScript%2FJavaScript-111111?style=flat-square&logo=typescript&logoColor=8CFF2E)
+![Python](https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=F8F8F8)
+![PHP](https://img.shields.io/badge/PHP-111111?style=flat-square&logo=php&logoColor=F8F8F8)
+![C++](https://img.shields.io/badge/C%2B%2B-111111?style=flat-square&logo=cplusplus&logoColor=F8F8F8)
+![Go](https://img.shields.io/badge/Go-111111?style=flat-square&logo=go&logoColor=F8F8F8)
+![Rust](https://img.shields.io/badge/Rust-111111?style=flat-square&logo=rust&logoColor=F8F8F8)
+![Java](https://img.shields.io/badge/Java-111111?style=flat-square&logo=openjdk&logoColor=F8F8F8)
+![Swift](https://img.shields.io/badge/Swift-111111?style=flat-square&logo=swift&logoColor=F8F8F8)
+![Kotlin](https://img.shields.io/badge/Kotlin-111111?style=flat-square&logo=kotlin&logoColor=F8F8F8)
+
 ![Next.js](https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=next.js&logoColor=8CFF2E)
 ![React](https://img.shields.io/badge/React-111111?style=flat-square&logo=react&logoColor=F8F8F8)
+![Vue.js](https://img.shields.io/badge/Vue.js-111111?style=flat-square&logo=vue.js&logoColor=F8F8F8)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-111111?style=flat-square&logo=tailwindcss&logoColor=F8F8F8)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-111111?style=flat-square&logo=framer&logoColor=F8F8F8)
 
-![Supabase](https://img.shields.io/badge/Supabase-111111?style=flat-square&logo=supabase&logoColor=8CFF2E)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=flat-square&logo=postgresql&logoColor=F8F8F8)
-![Prisma](https://img.shields.io/badge/Prisma-111111?style=flat-square&logo=prisma&logoColor=F8F8F8)
+![Node.js](https://img.shields.io/badge/Node.js_(Express%2FNestJS)-111111?style=flat-square&logo=node.js&logoColor=8CFF2E)
+![Python](https://img.shields.io/badge/Python_(FastAPI%2FDjango)-111111?style=flat-square&logo=python&logoColor=F8F8F8)
+![PHP](https://img.shields.io/badge/PHP_(Laravel)-111111?style=flat-square&logo=laravel&logoColor=F8F8F8)
+![Java](https://img.shields.io/badge/Java_(Spring_Boot)-111111?style=flat-square&logo=springboot&logoColor=F8F8F8)
+![Go](https://img.shields.io/badge/Go_(Gin)-111111?style=flat-square&logo=go&logoColor=F8F8F8)
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=flat-square&logo=postgresql&logoColor=8CFF2E)
+![MySQL](https://img.shields.io/badge/MySQL-111111?style=flat-square&logo=mysql&logoColor=F8F8F8)
+![MongoDB](https://img.shields.io/badge/MongoDB-111111?style=flat-square&logo=mongodb&logoColor=F8F8F8)
 ![Redis](https://img.shields.io/badge/Redis-111111?style=flat-square&logo=redis&logoColor=F8F8F8)
 
-![Stripe](https://img.shields.io/badge/Stripe-111111?style=flat-square&logo=stripe&logoColor=8CFF2E)
-![Paddle](https://img.shields.io/badge/Paddle-111111?style=flat-square&logo=paddle&logoColor=F8F8F8)
-![Resend](https://img.shields.io/badge/Resend-111111?style=flat-square&logo=resend&logoColor=F8F8F8)
-![Vercel](https://img.shields.io/badge/Vercel-111111?style=flat-square&logo=vercel&logoColor=F8F8F8)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-111111?style=flat-square&logo=githubactions&logoColor=8CFF2E)
+![React Native](https://img.shields.io/badge/React_Native-111111?style=flat-square&logo=react&logoColor=F8F8F8)
+![Flutter](https://img.shields.io/badge/Flutter-111111?style=flat-square&logo=flutter&logoColor=F8F8F8)
 
 </div>
 
