@@ -110,21 +110,13 @@ CURRENTLY BUILDING
 
 <div align="center">
 
-<table>
-<tr>
-<td width="70%">
-
-**BULKOPIN** — Bulk Pinterest Scheduler & Automation
-
-<sub>WEB</sub> `Next.js` · `Tailwind` · `Supabase` &nbsp;&nbsp; <sub>EXTENSION</sub> `WXT` · `Solid.js`
-
-<sub>PAYMENTS</sub> `Paddle` &nbsp;&nbsp; <sub>PLATFORM</sub> `Chrome Web Store`
-
-🟢 &nbsp;`ACTIVE` · In Development · [bulkopin.com](https://bulkopin.com)
-
-</td>
-</tr>
-</table>
+| | |
+|:--|:--|
+| **Project** | **[BulkoPin](https://bulkopin.com)** — Bulk Pinterest Scheduler & Automation |
+| Web | `Next.js` · `Tailwind CSS` · `Supabase` |
+| Extension | `WXT` · `Solid.js` |
+| Payments | `Paddle` |
+| Status | ![](https://img.shields.io/badge/ACTIVE-8CFF2E?style=flat-square&labelColor=111111&color=111111&logoColor=8CFF2E) `in development` |
 
 </div>
 
