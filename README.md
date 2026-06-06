@@ -115,8 +115,7 @@ CURRENTLY BUILDING
 | **Project** | **[BulkoPin](https://bulkopin.com)** — Bulk Pinterest Scheduler & Automation |
 | Web | `Next.js` · `Tailwind CSS` · `Supabase` |
 | Extension | `WXT` · `Solid.js` |
-| Payments | `Paddle` |
-| Status | ![](https://img.shields.io/badge/ACTIVE-8CFF2E?style=flat-square&labelColor=111111&color=111111&logoColor=8CFF2E) `in development` |
+| Status | ![](https://img.shields.io/badge/ACTIVE-111111?style=flat-square&logo=statuspage&logoColor=8CFF2E) `in development` |
 
 </div>
 
