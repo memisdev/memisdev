@@ -48,30 +48,21 @@ STACK
 <div align="center">
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=flat-square&logo=typescript&logoColor=8CFF2E)
-![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript&logoColor=F8F8F8)
-![Python](https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=F8F8F8)
-![SQL](https://img.shields.io/badge/SQL-111111?style=flat-square&logo=postgresql&logoColor=F8F8F8)
-![HTML5](https://img.shields.io/badge/HTML-111111?style=flat-square&logo=html5&logoColor=F8F8F8)
-![CSS3](https://img.shields.io/badge/CSS-111111?style=flat-square&logo=css3&logoColor=F8F8F8)
-
-![Next.js](https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=next.js&logoColor=F8F8F8)
+![Next.js](https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=next.js&logoColor=8CFF2E)
 ![React](https://img.shields.io/badge/React-111111?style=flat-square&logo=react&logoColor=F8F8F8)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-111111?style=flat-square&logo=tailwindcss&logoColor=F8F8F8)
-![Node.js](https://img.shields.io/badge/Node.js-111111?style=flat-square&logo=node.js&logoColor=8CFF2E)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-111111?style=flat-square&logo=framer&logoColor=F8F8F8)
-![Zod](https://img.shields.io/badge/Zod-111111?style=flat-square&logo=zod&logoColor=F8F8F8)
 
 ![Supabase](https://img.shields.io/badge/Supabase-111111?style=flat-square&logo=supabase&logoColor=8CFF2E)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=flat-square&logo=postgresql&logoColor=F8F8F8)
+![Prisma](https://img.shields.io/badge/Prisma-111111?style=flat-square&logo=prisma&logoColor=F8F8F8)
 ![Redis](https://img.shields.io/badge/Redis-111111?style=flat-square&logo=redis&logoColor=F8F8F8)
-![Stripe](https://img.shields.io/badge/Stripe-111111?style=flat-square&logo=stripe&logoColor=F8F8F8)
 
+![Stripe](https://img.shields.io/badge/Stripe-111111?style=flat-square&logo=stripe&logoColor=8CFF2E)
+![Paddle](https://img.shields.io/badge/Paddle-111111?style=flat-square&logo=paddle&logoColor=F8F8F8)
+![Resend](https://img.shields.io/badge/Resend-111111?style=flat-square&logo=resend&logoColor=F8F8F8)
 ![Vercel](https://img.shields.io/badge/Vercel-111111?style=flat-square&logo=vercel&logoColor=F8F8F8)
-![Docker](https://img.shields.io/badge/Docker-111111?style=flat-square&logo=docker&logoColor=F8F8F8)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-111111?style=flat-square&logo=githubactions&logoColor=8CFF2E)
-![Vitest](https://img.shields.io/badge/Vitest-111111?style=flat-square&logo=vitest&logoColor=F8F8F8)
-![Playwright](https://img.shields.io/badge/Playwright-111111?style=flat-square&logo=playwright&logoColor=F8F8F8)
-![Figma](https://img.shields.io/badge/Figma-111111?style=flat-square&logo=figma&logoColor=F8F8F8)
 
 </div>
 
@@ -95,9 +86,9 @@ CURRENTLY BUILDING
 
 | | |
 |---|---|
-| **VISIOCY** | AI Product Photography for E-Commerce |
-| Stack | Next.js 16 · React 19 · Supabase · Vercel Pro |
-| Scope | 15 AI modes · Multi-tenant · Credit-based billing |
+| **BulkoPin** | Bulk Pinterest Scheduler & Automation |
+| Link | [bulkopin.com](https://bulkopin.com) |
+| Stack | Next.js · Supabase · Paddle · Chrome Extension |
 | Status | `active` |
 
 </div>
