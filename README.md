@@ -47,7 +47,10 @@ STACK
 
 <div align="center">
 
-![TypeScript](https://img.shields.io/badge/TypeScript%2FJavaScript-111111?style=flat-square&logo=typescript&logoColor=8CFF2E)
+<sub>LANGUAGES</sub>
+
+![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=flat-square&logo=typescript&logoColor=8CFF2E)
+![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript&logoColor=8CFF2E)
 ![Python](https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=F8F8F8)
 ![PHP](https://img.shields.io/badge/PHP-111111?style=flat-square&logo=php&logoColor=F8F8F8)
 ![C++](https://img.shields.io/badge/C%2B%2B-111111?style=flat-square&logo=cplusplus&logoColor=F8F8F8)
@@ -57,21 +60,30 @@ STACK
 ![Swift](https://img.shields.io/badge/Swift-111111?style=flat-square&logo=swift&logoColor=F8F8F8)
 ![Kotlin](https://img.shields.io/badge/Kotlin-111111?style=flat-square&logo=kotlin&logoColor=F8F8F8)
 
+<sub>FRONTEND</sub>
+
 ![Next.js](https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=next.js&logoColor=8CFF2E)
-![React](https://img.shields.io/badge/React-111111?style=flat-square&logo=react&logoColor=F8F8F8)
+![React](https://img.shields.io/badge/React-111111?style=flat-square&logo=react&logoColor=8CFF2E)
 ![Vue.js](https://img.shields.io/badge/Vue.js-111111?style=flat-square&logo=vue.js&logoColor=F8F8F8)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-111111?style=flat-square&logo=tailwindcss&logoColor=F8F8F8)
 
-![Node.js](https://img.shields.io/badge/Node.js_(Express%2FNestJS)-111111?style=flat-square&logo=node.js&logoColor=8CFF2E)
-![Python](https://img.shields.io/badge/Python_(FastAPI%2FDjango)-111111?style=flat-square&logo=python&logoColor=F8F8F8)
-![PHP](https://img.shields.io/badge/PHP_(Laravel)-111111?style=flat-square&logo=laravel&logoColor=F8F8F8)
-![Java](https://img.shields.io/badge/Java_(Spring_Boot)-111111?style=flat-square&logo=springboot&logoColor=F8F8F8)
-![Go](https://img.shields.io/badge/Go_(Gin)-111111?style=flat-square&logo=go&logoColor=F8F8F8)
+<sub>BACKEND</sub>
+
+![Node.js](https://img.shields.io/badge/Node.js-111111?style=flat-square&logo=node.js&logoColor=8CFF2E)
+![Express/NestJS](https://img.shields.io/badge/Express_%2F_NestJS-111111?style=flat-square&logo=nestjs&logoColor=F8F8F8)
+![FastAPI/Django](https://img.shields.io/badge/FastAPI_%2F_Django-111111?style=flat-square&logo=fastapi&logoColor=F8F8F8)
+![Laravel](https://img.shields.io/badge/Laravel-111111?style=flat-square&logo=laravel&logoColor=F8F8F8)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-111111?style=flat-square&logo=springboot&logoColor=F8F8F8)
+![Go/Gin](https://img.shields.io/badge/Go_%2F_Gin-111111?style=flat-square&logo=go&logoColor=F8F8F8)
+
+<sub>DATABASE</sub>
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=flat-square&logo=postgresql&logoColor=8CFF2E)
 ![MySQL](https://img.shields.io/badge/MySQL-111111?style=flat-square&logo=mysql&logoColor=F8F8F8)
 ![MongoDB](https://img.shields.io/badge/MongoDB-111111?style=flat-square&logo=mongodb&logoColor=F8F8F8)
 ![Redis](https://img.shields.io/badge/Redis-111111?style=flat-square&logo=redis&logoColor=F8F8F8)
+
+<sub>MOBILE</sub>
 
 ![React Native](https://img.shields.io/badge/React_Native-111111?style=flat-square&logo=react&logoColor=F8F8F8)
 ![Flutter](https://img.shields.io/badge/Flutter-111111?style=flat-square&logo=flutter&logoColor=F8F8F8)
