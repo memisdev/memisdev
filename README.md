@@ -66,6 +66,8 @@ STACK
 ![React](https://img.shields.io/badge/React-111111?style=flat-square&logo=react&logoColor=8CFF2E)
 ![Vue.js](https://img.shields.io/badge/Vue.js-111111?style=flat-square&logo=vue.js&logoColor=F8F8F8)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-111111?style=flat-square&logo=tailwindcss&logoColor=F8F8F8)
+![Solid.js](https://img.shields.io/badge/Solid.js-111111?style=flat-square&logo=solid&logoColor=8CFF2E)
+![WXT](https://img.shields.io/badge/WXT-111111?style=flat-square&logo=googlechrome&logoColor=F8F8F8)
 
 <sub>BACKEND</sub>
 
@@ -108,12 +110,21 @@ CURRENTLY BUILDING
 
 <div align="center">
 
-| | |
-|---|---|
-| **BulkoPin** | Bulk Pinterest Scheduler & Automation |
-| Link | [bulkopin.com](https://bulkopin.com) |
-| Stack | Next.js · Supabase · Paddle · Chrome Extension |
-| Status | `active` |
+<table>
+<tr>
+<td width="70%">
+
+**BULKOPIN** — Bulk Pinterest Scheduler & Automation
+
+<sub>WEB</sub> `Next.js` · `Tailwind` · `Supabase` &nbsp;&nbsp; <sub>EXTENSION</sub> `WXT` · `Solid.js`
+
+<sub>PAYMENTS</sub> `Paddle` &nbsp;&nbsp; <sub>PLATFORM</sub> `Chrome Web Store`
+
+🟢 &nbsp;`ACTIVE` · In Development · [bulkopin.com](https://bulkopin.com)
+
+</td>
+</tr>
+</table>
 
 </div>
 
