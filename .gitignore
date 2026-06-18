@@ -1,0 +1,32 @@
+
+# migration safety
+node_modules/
+dist/
+build/
+.next/
+.cache/
+coverage/
+playwright-report/
+test-results/
+.env
+.env.*
+*.pem
+*.key
+id_rsa
+id_ed25519
+.DS_Store
+
+# allow safe env templates
+!.env.example
+!.env.local.example
+!.env.production.example
+
+# migration extra safety
+supabase/.temp/
+*.rar
+*.7z
+*.tar
+*.tar.gz
+*.zip
+*:Zone.Identifier
+.codex/
